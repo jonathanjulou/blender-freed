@@ -1,16 +1,16 @@
 # blender-freed
 
-A blender plugin to read a live freed feed.
-It provides 4 freed receiver slots, which can be bound to objects to change its position and orientation in real-time.
+A blender plugin to read a live freed feed. \
+It provides 4 freed receiver slots, which can be bound to objects to change their position and orientation in real-time. \
 Lens data not supported yet. Genlock and Timecode not supported.
 
-Animation data can be recorded by pressing the play button in the timeline. 
+Animation data can be recorded by pressing the play button in the timeline. \
 /!\ make sure not to loop over previously recorded data. stop the receivers before playing recorded data. /!\
 
 This code belongs to the company oARo and is provided as is to help people interested in experimenting with virtual production / previz in Blender.
-https://oaro.studio/
+https://oaro.studio/ \
 This code was tested using and is mainly meant for oARo product EZtrack, a camera and talent tracking hub which can output freed over the network.
-https://eztrack.studio
+https://eztrack.studio 
 
 
 ## install the add-on
